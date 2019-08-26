@@ -7,13 +7,13 @@ Selenium is one of the most widely used open source Web UI (User Interface) auto
 
 ![image](https://static.javatpoint.com/tutorial/selenium/images/selenium-what-is-selenium.png)
 
-### Selenium Limitations
+## Selenium Limitations
 - Selenium does not support automation testing for desktop applications.
 - Selenium requires high skill sets in order to automate tests more effectively.
 - Selenium does not provide any test tool integration for Test Management.
 - Selenium does not have any inbuilt reportingcapability. We have to rely on plug-ins like JUnit and TestNG for test reports.
 
-#### Selenium Webdriver
+## Selenium Webdriver
 Selenium WebDriver is a collection of open source APIs which are used to automate the testing of a web application.The most commonly used Webdriver's include:
 1. Google Chrome Driver
 2. Firefox Driver 
@@ -21,10 +21,10 @@ Selenium WebDriver is a collection of open source APIs which are used to automat
 4. Safari Driver
 5. HTML Unit Driver
 
-##### A sample Selenium WebDriver script to launch a ChromeBrowser
+## A sample Selenium WebDriver script to launch a ChromeBrowser
 ![image](http://1.bp.blogspot.com/-wEGPWQa6w_s/VTNmW7nslFI/AAAAAAAAATc/WsyhYwlppNA/s1600/chrome%2BBrowser%2BInvoke.png)
 
-###### References
+## References
  You can view the selenium content on the below provided URL's:
  
  https://www.javatpoint.com/selenium-tutorial
