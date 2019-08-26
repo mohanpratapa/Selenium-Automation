@@ -25,8 +25,11 @@ Selenium WebDriver is a collection of open source APIs which are used to automat
 ![image](http://1.bp.blogspot.com/-wEGPWQa6w_s/VTNmW7nslFI/AAAAAAAAATc/WsyhYwlppNA/s1600/chrome%2BBrowser%2BInvoke.png)
 
 ###### References
- You can view the selenium content on the below provided URL:
+ You can view the selenium content on the below provided URL's:
+ 
  https://www.javatpoint.com/selenium-tutorial
+ https://www.seleniumhq.org/
+ https://www.guru99.com/selenium-tutorial.html
  
 
 
