@@ -1,4 +1,5 @@
 # Selenium-Automation
+![image](https://static.javatpoint.com/tutorial/selenium/images/selenium-tutorial.jpg)
 This repository has the important information on selenium automation.
 
 ## Selenium Features 
