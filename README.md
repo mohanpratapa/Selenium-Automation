@@ -24,4 +24,9 @@ Selenium WebDriver is a collection of open source APIs which are used to automat
 ##### A sample Selenium WebDriver script to launch a ChromeBrowser
 ![image](http://1.bp.blogspot.com/-wEGPWQa6w_s/VTNmW7nslFI/AAAAAAAAATc/WsyhYwlppNA/s1600/chrome%2BBrowser%2BInvoke.png)
 
+###### References
+ You can view the selenium content on the below provided URL:
+ https://www.javatpoint.com/selenium-tutorial
+ 
+
 
