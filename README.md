@@ -1,4 +1,4 @@
-# Selenium-Automation![image](http://rimdevblog.files.wordpress.com/2014/02/selenium-webdriver.png?w=800)
+# Selenium-Automation![image](https://www.seleniumhq.org/images/big-logo.png)
 
 This repository has the important information on selenium automation.
 
