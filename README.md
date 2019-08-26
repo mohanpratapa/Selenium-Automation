@@ -1,4 +1,4 @@
-# Selenium-Automation![image](https://static.javatpoint.com/tutorial/selenium/images/selenium-tutorial.jpg)
+# Selenium-Automation![image](http://rimdevblog.files.wordpress.com/2014/02/selenium-webdriver.png?w=800)
 
 This repository has the important information on selenium automation.
 
