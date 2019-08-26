@@ -8,10 +8,6 @@ Selenium is one of the most widely used open source Web UI (User Interface) auto
 ![image](https://static.javatpoint.com/tutorial/selenium/images/selenium-what-is-selenium.png)
 
 
-
-
-
-
 ### Selenium Limitations
 - Selenium does not support automation testing for desktop applications.
 - Selenium requires high skill sets in order to automate tests more effectively.
